@@ -78,9 +78,9 @@
 
         sym_func {
             bindings = <
-       &none      &kp LT    &none   &kp GT    &none       &kp F1   &kp F2           &kp F3   &kp F4   &kp F5
-       &kp GRAVE  &kp LPAR  &none   &kp RPAR  &kp BSLH    &kp F6   &kp F7           &kp F8   &kp F9   &kp F10
-&none  &none      &kp LBKT  &none   &kp RBKT  &none       &kp F11  &kp F12          &kp F13  &kp F14  &kp F15  &kp F16
+       &none      &kp LPAR  &none   &kp RPAR  &none       &kp F1   &kp F2           &kp F3   &kp F4   &kp F5
+       &kp GRAVE  &kp LBKT  &none   &kp RBKT  &kp BSLH    &kp F6   &kp F7           &kp F8   &kp F9   &kp F10
+&none  &none      &kp LT    &none   &kp GT    &none       &kp F11  &kp F12          &kp F13  &kp F14  &kp F15  &kp F16
                             &trans  &trans    &trans      &none    &kp RIGHT_SHIFT  &none
             >;
         };
